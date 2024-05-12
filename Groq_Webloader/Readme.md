@@ -1,7 +1,8 @@
-Project Documentation: #Building End-to-End Webloader RAG Application using Groq with DataStax and Cassio, Langchain#
+# Project Documentation: 
+##  Building End-to-End Webloader RAG Application using Groq with DataStax and Cassio, Langchain 
 This project builds a web-based application that utilizes Groq for inferencing and DataStax/Cassio for data storage. Here's a breakdown of the project's functionalities and implementation steps:
 
-Project Overview
+# Project Overview
 
 This project builds a web application named "Web-based Loader RAG Application".
 The application fetches data from a website using a library called "webbased loader".
@@ -12,14 +13,15 @@ Groq, an inferencing engine, is then employed to enable quick response generatio
 A retrieval chain is subsequently created to facilitate data querying.
 Implementation Steps
 
-Prerequisites and Libraries:
+# Prerequisites and Libraries:
 
-DataStacks, Astra DB
-Groq
-cashio
-beautifulsoup (for web scraping)
-Langchain libraries (Langchain OpenAI, Langchain Core, Langchain Community)
-Code Implementation:
+1. DataStacks, Astra DB
+2. Groq
+3. cashio
+4. beautifulsoup (for web scraping)
+5. Langchain libraries (Langchain OpenAI, Langchain Core, Langchain Community)
+
+# Code Implementation:
 
 The code is written in Python using Langchain libraries.
 Necessary libraries are imported.
